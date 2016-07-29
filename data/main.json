@@ -1,0 +1,14 @@
+{
+  "nodes":[
+    {"name":"Myriel","group":1},
+    {"name":"Nap","group":2},
+	{"name":"Napn","group":3},
+	{"name":"Napeon","group":2},
+		
+  ],
+  "links":[
+    {"source":1,"target":0,"value":4},
+	{"source":2,"target":0,"value":2},
+	{"source":3,"target":0,"value":1}
+  ]
+}
